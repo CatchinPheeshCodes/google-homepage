@@ -1,1 +1,2 @@
 This is the start of something great!  Recreating the google homepage will be my first experience with HTML & CSS.  After finishing the project, I will update this file with what I've learned. 
+2/21/21 Next Steps - Format everything that is currently on the page. Change 'Dot Button' to display the actual button on Google homepage. Add magnifying glass. Add leaf next to carbon neutral.
